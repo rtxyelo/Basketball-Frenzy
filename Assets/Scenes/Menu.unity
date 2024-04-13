@@ -1659,7 +1659,7 @@ Canvas:
   m_AdditionalShaderChannelsFlag: 25
   m_UpdateRectTransformForStandalone: 0
   m_SortingLayerID: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 5
   m_TargetDisplay: 0
 --- !u!224 &1112757710
 RectTransform:
@@ -1717,10 +1717,10 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 582811322}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.11613515, y: 0.7161501}
-  m_AnchorMax: {x: 0.7795946, y: 0.98472214}
-  m_AnchoredPosition: {x: -4.0200195, y: -7.0544434}
-  m_SizeDelta: {x: -25.099976, y: -27.45996}
+  m_AnchorMin: {x: 0.089, y: 0.6686945}
+  m_AnchorMax: {x: 0.8046622, y: 1}
+  m_AnchoredPosition: {x: -0.52001953, y: 15.945557}
+  m_SizeDelta: {x: -3.9600067, y: 17.230003}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1281526264
 MonoBehaviour:
@@ -1805,7 +1805,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_margin: {x: 0, y: 46.624878, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -2690,8 +2690,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 0}
-  m_Type: 1
+  m_Sprite: {fileID: 21300000, guid: 914a92ad665324941adfc53b4f9a8bcb, type: 3}
+  m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
   m_FillMethod: 4
@@ -3944,10 +3944,10 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 5846010242198822277}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.158, y: 0.7161501}
-  m_AnchorMax: {x: 0.8165202, y: 0.97900003}
-  m_AnchoredPosition: {x: 0, y: -2}
-  m_SizeDelta: {x: -10.099976, y: -18.45996}
+  m_AnchorMin: {x: 0.13100001, y: 0.69000006}
+  m_AnchorMax: {x: 0.8413244, y: 1}
+  m_AnchoredPosition: {x: 3.5, y: -0.62750244}
+  m_SizeDelta: {x: -1.1699982, y: 1.73}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &5082772968964559106
 CanvasRenderer:
@@ -4775,7 +4775,7 @@ Canvas:
   m_AdditionalShaderChannelsFlag: 25
   m_UpdateRectTransformForStandalone: 0
   m_SortingLayerID: 0
-  m_SortingOrder: 3
+  m_SortingOrder: 4
   m_TargetDisplay: 0
 --- !u!114 &7931549435662929286
 MonoBehaviour:
