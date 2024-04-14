@@ -38,6 +38,7 @@ public class InputController : MonoBehaviour
                 Debug.Log("Throw!");
                 _playGameSounds.PlayBallSound();
                 _ballLauncher.ThrowBall();
+                _isActive = false;
             }
         }
     }

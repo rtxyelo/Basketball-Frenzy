@@ -27,6 +27,9 @@ public class BallLauncher : MonoBehaviour
     [SerializeField]
     private PlayGameSounds _playGameSounds;
 
+    [SerializeField]
+    private InputController _inputController;
+
     private float _gravity = -18;
 
     private float _h;
@@ -220,6 +223,8 @@ public class BallLauncher : MonoBehaviour
         _isCanThrow = true;
 
         transform.position = _ballInitPosition;
+
+        _inputController.IsActive = true;
     }
 
 
